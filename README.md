@@ -14,4 +14,4 @@ My tech stack:
 My contacts:
 
 - Telegram - <a href="https://t.me/UMAtaullin" target="_blank">@UMAtaullin</a>
-- VKontakte - <a href="https://vk.com/id145468164" target="_blank">Урал Атауллин</a>
+- VKontakte - <a href="https://vk.com/UMAtaullin" target="_blank">Урал Атауллин</a>
