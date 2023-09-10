@@ -8,8 +8,8 @@ I like to develop and create interesting projects that help people and make the 
 
 My tech stack:
 
-- Python, Django, DRF, MySQL PostgreSQL, SQLite, Docker
-- HTML, CSS, Postman, Redoc, Git, GitHub, unittest, pytest
+- Python, Django, Django Rest Framework(DRF), MySQL, PostgreSQL, SQLite, Docker, CI/CD
+- HTML, CSS, Postman, Redoc, Git, GitHub, Unittest, Pytest
 
 My contacts:
 
