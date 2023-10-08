@@ -1,17 +1,16 @@
-<h1 align="center">Hi there, I'm Ural
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Python backend developer, student Yandex.Practicum </h3>
+- 👋 Hi, I’m @UMAtaullin
 
-About me:
+- 👀 I’m interested in:
+  - Web applications software development with Python (Django and FastAPI)
+  - Dev Ops
 
-I like to develop and create interesting projects that help people and make the world a better place. I am always open to new ideas and ready to learn new things. If you have any projects in which I can help or participate, do not hesitate to contact me!
+- 🌱 I’m currently learning:
+  - Django REST framework
+  - FastAPI
+  - PostgreSQL
+  - Docker
+  - CI/CD pipelines
 
-My tech stack:
+- 💞️ I’m looking for a job in web development. I am available for Entry Level employment.
 
-- Python, Django, Django Rest Framework(DRF), MySQL, PostgreSQL, SQLite, Docker, CI/CD
-- HTML, CSS, Postman, Redoc, Git, GitHub, Unittest, Pytest
-
-My contacts:
-
-- Telegram - <a href="https://t.me/UMAtaullin" target="_blank">@UMAtaullin</a>
-- VKontakte - <a href="https://vk.com/UMAtaullin" target="_blank">Урал Атауллин</a>
+- 📫 Reach me on Telegram - <a href="https://t.me/UMAtaullin" target="_blank">@UMAtaullin</a> or - <a href="https://vk.com/UMAtaullin" target="_blank">Урал Атауллин</a>
