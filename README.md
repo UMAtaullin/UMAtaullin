@@ -1,15 +1,13 @@
 - 👋 Hi, I’m @UMAtaullin
 
 - 👀 I’m interested in:
-  - Web applications software development with Python (Django and FastAPI)
-  - Dev Ops
+  - Web applications software development with Python
 
 - 🌱 I’m currently learning:
   - Django REST framework
-  - FastAPI
   - PostgreSQL
   - Docker
-  - CI/CD pipelines
+  - CI/CD
 
 - 💞️ I’m looking for a job in web development. I am available for Entry Level employment.
 
