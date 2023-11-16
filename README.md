@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @UMAtaullin
-
-- 👀 I am a Python backend developer working with Django. 
+- 👋 Hi! I am a Python backend developer working with Django.
 
 - 🌱 I’m currently learning:
   - Django REST framework
@@ -10,4 +8,4 @@
 
 - 💞️ I’m looking for a job in web development. I am available for Entry Level employment.
 
-- 📫 Reach me on Telegram - <a href="https://t.me/UMAtaullin" target="_blank">@UMAtaullin</a> or Vkontakte - <a href="https://vk.com/UMAtaullin" target="_blank">Урал Атауллин</a>
+- 📫 Reach me on Telegram - <a href="https://t.me/UMAtaullin" target="_blank">@UMAtaullin</a> or Vkontakte - <a href="https://vk.com/UMAtaullin" target="_blank">Урал Атауллин.</a>
