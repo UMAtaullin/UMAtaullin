@@ -1,6 +1,6 @@
 - 👋 Hi! I am a Python backend developer working with Django.
 
-- 🌱 I’m currently learning:
+- 💡 Technologies I have experience with:
   - Django REST framework
   - PostgreSQL
   - Docker
