@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @UMAtaullin
 
-- 👀 I’m interested in:
-  - Web applications software development with Python
+- 👀 I am a Python backend developer working with Django. 
 
 - 🌱 I’m currently learning:
   - Django REST framework
