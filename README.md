@@ -4,6 +4,8 @@
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg" height="27"/> 
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react1.svg" height="27"/> 
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Redux/redux2.svg" height="27"/> 
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg" height="27"/> 
+
 
 
 ### Codewars:
