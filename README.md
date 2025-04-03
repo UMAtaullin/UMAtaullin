@@ -1,4 +1,4 @@
-## Geologist | 💻 Fullstack Developer (Python, JavaScript, TypeScript)  
+## Geologist | Fullstack Developer (Python/JS/TS)  
 
 ### Bridging science and code for data analysis and web applications.  
 
